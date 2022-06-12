@@ -1,0 +1,148 @@
+.header-top{
+    width: 100%; 
+}
+.header-top .right{
+    display: flex; 
+    flex-direction: row-reverse;
+    padding: 20px;
+    list-style: none; 
+    font-size:11px;
+    
+}
+.header-top .right li{
+    padding: 18px;
+    margin: 0px;
+
+}
+.container {
+    height: 66px;
+}
+.input-group .form-control {
+    font-family:source_sans_proregular!important ;
+    max-lines: 50px;
+    font-size: 14px;
+}
+.input-group .btn-secondary {
+    background-color: white;
+}
+
+.margin-right-menu {
+margin-top:  -30px;
+
+}
+
+.margin-right-menu .nav-item a {
+    font-size: 12px;
+}
+
+.nav-item .nav-link {
+    font-size: 10px;
+    color: black;
+    font-weight: 600 ;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding-left: 1px;
+    
+}
+
+ul.breadcrumb {
+    padding: 5px 16px 1px 150px;
+    list-style: none;
+    color: #333 !important;
+}
+ul.breadcrumb li {
+    line-height: 18px;
+    font-size: 12px;
+    margin-left: 1px;
+    padding-left: 2px;
+     
+}
+ul.breadcrumb a {
+    color: #000;
+    text-decoration-line: none;
+}
+
+ul.breadcrumb li+li:before {
+    padding: 2px;
+    content: ">\00a0";
+}
+
+.slide{
+    max-width: 400px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border:  1px solid #ccc;
+    padding: 10px 20px 10px 20px;
+    height: 750px;
+} 
+ 
+.col-md-7 {
+    border: 1px solid #ccc;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-weight: normal;
+    max-width: 500px;
+    
+}
+.checked {
+    color: orange;
+    
+}
+.degerlendirmeler {
+    font-size: 10px;
+    color: black;
+    margin-left: 20px;
+}
+.odeme {
+    color:red ;
+    font-size: 10px;
+    margin-left: 20px;
+    background-color: rgb(245, 198, 206);
+    margin-right: 300px;
+}
+.button {
+    font-family: source_sans_prosemibold,serif;
+    border: solid 1px #f27a1a;
+    background-color: #fffaf5b3;
+    font-size: 17px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.koleksiyon a {
+    text-decoration: none !important;
+}
+.koleksiyon {
+    font-size: 14px;
+    color: black;
+    margin-left: 350px;
+    text-decoration: none;
+}
+.sepetEkle {
+    margin-left: 80px;
+    margin-top: 40px;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #f27a1a;
+    border: 1px solid #f27a1a;
+    border-radius: 6px;
+    color: white;
+    font-family: source_sans_prosemibold,serif;
+}
+
+.urunOzellikleri {
+    font-size: 18px;
+    margin-top: 60px;
+    margin-left: 50px;
+    font-weight: normal;
+}
+.ozelliklerOl {
+    margin-top: -22px;
+    font-size: 14px;
+}
+
