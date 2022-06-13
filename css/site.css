@@ -91,7 +91,7 @@ ul.breadcrumb li+li:before {
     
 }
 .degerlendirmeler {
-    font-size: 10px;
+    font-size: 12px;
     color: black;
     margin-left: 20px;
 }
@@ -137,12 +137,22 @@ ul.breadcrumb li+li:before {
 
 .urunOzellikleri {
     font-size: 18px;
-    margin-top: 60px;
+    margin-top: 50px;
     margin-left: 50px;
     font-weight: normal;
+    text-decoration: none;
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
 }
 .ozelliklerOl {
-    margin-top: -22px;
+    margin-top: -32px;
+    list-style: none !important;
     font-size: 14px;
 }
-
+ .urunBilgi {
+    font-size:  14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -22px;
+    padding-bottom: 10px;
+ }
